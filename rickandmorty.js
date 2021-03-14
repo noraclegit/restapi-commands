@@ -1,5 +1,5 @@
 const fetch = require('node-fetch')
-const {MessageEmbed} = require('discord.js')
+,{MessageEmbed} = require('discord.js')
 module.exports={
     name: 'rickandmorty',
     aliases: ["rickmorty","rick&morty","ricknmorty","rick","morty","rnm"],
